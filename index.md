@@ -1,7 +1,10 @@
 ## Welcome to StartupBookmarks
 
-StartupBookmarks is a hand-picked collection of resources for starting and growing your startup.
+We believe knowledge gets multiplied when shared and diminished when hoarded. 
 
+This is why we made available a collection our favorite resources on how to grow your startup for every knowledge-thirsty and inquisitive minds out there. 
+
+Enjoy and pay it forward! 
 
 ## Articles :
 
@@ -82,4 +85,6 @@ StartupBookmarks is a hand-picked collection of resources for starting and growi
 
 ### Want more ?
 
-If you want to stay updated with what we are doing at Bunnyshell and wants to help us to build a great product, you can request an invitation to our product: [beta.bunnyshell.com](https://beta.bunnyshell.com/) .
+We are Bunnyshell. Striving to build the only platform with a holistic approach on the entire devops pipeline. 
+
+If you would like to help us build the most awesome tool, join [our beta program](https://beta.bunnyshell.com/) and give us your honest feedback. Thanky thanks with a bunny on top.
