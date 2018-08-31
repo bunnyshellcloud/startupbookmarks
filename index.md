@@ -50,7 +50,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ) 
 
 
- ## Resources:
+## Resources:
 
  * [Pricing Methods for startups](https://taprun.com/methods/) 
  * [Places To Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup) 
@@ -69,7 +69,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  * [User Onboarding](https://www.dropbox.com/sh/jhy0i4g5xcseuft/AACgsCbH3YpL8hX3YTRRLgC6a?dl=0) 
 
 
- ## Tools:
+## Tools:
  
  * [Press Release Creation and Distribution Tools](https://www.sideprojectchecklist.com/2017/press-release-tools/) 
  * [Tools for Finding and Researching Your Competition](https://www.sideprojectchecklist.com/2017/competition-tools/) 
