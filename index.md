@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * [How to Invent the Future II - Alan Kay](https://www.startupschool.org/videos/12){:target="_blank"}
 * [A Student's Guide to Startups](http://paulgraham.com/mit.html){:target="_blank"}
 * [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/){:target="_blank"}
-* [How and Why to Start A Startup](Sam Altman & Dustin Moskovitz : https://www.startupschool.org/videos/1){:target="_blank"}
+* [How and Why to Start A Startup,Sam Altman & Dustin Moskovitz](https://www.startupschool.org/videos/1){:target="_blank"}
 * [How to Raise Money](http://paulgraham.com/fr.html){:target="_blank"}
 * [Sam Altman on How to Start a Startup](http://startupclass.samaltman.com/courses/lec19/){:target="_blank"}
 * [How to Raise Money, and How to Succeed Long-Term - Jess Lee, Aaron Harris, & Ali Rowghani](https://www.startupschool.org/videos/18){:target="_blank"}
