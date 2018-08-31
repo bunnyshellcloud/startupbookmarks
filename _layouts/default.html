@@ -26,6 +26,13 @@
     
     <script src="//platform-api.sharethis.com/js/sharethis.js#property=5b89266bde278e00111a48f2&product=inline-share-buttons"></script>
 
+    <style type="text/css">
+      @media screen and (max-width: 1100px){
+          .logo-bunnyshell{
+              margin-left:0px;
+          }
+}
+    </style>
 {% seo %}
   </head>
 
@@ -33,7 +40,7 @@
     <header>
       <div class="inner">
         <a href="//www.bunnyshell.com">
-          <img src="//bunnyshell.com/assets/images/logo-white.png" style="width:140px;margin-left:-100px;"> 
+          <img src="//bunnyshell.com/assets/images/logo-white.png" class="logo-bunnyshell" style="width:140px;margin-left:-100px;"> 
         </a>
         <div style="text-align:center;">
           <h1 style="width:100%"> {{ site.title | default: site.github.repository_name }}</h1>
