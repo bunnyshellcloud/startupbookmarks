@@ -19,7 +19,7 @@ StartupBookmarks is a hand-picked collection of resources for starting and growi
 * [The 18 Mistakes That Kill Startups](http://paulgraham.com/startupmistakes.html){:target="_blank"}
 * [How Not to Die](http://www.paulgraham.com/die.html){:target="_blank"}
 * [Sam Altman on How To Be A Great Founder](http://startupclass.samaltman.com/courses/lec13/){:target="_blank"}
-* [Alin Dobra, Growth Engine for SAAS Startups](https://www.slideshare.net/AlinDobra1/growth-engine-for-saas-startups)
+* [Alin Dobra, Growth Engine for SAAS Startups](https://www.slideshare.net/AlinDobra1/growth-engine-for-saas-startups){:target="_blank"}
 * [Jobs of the CEO (Startup Playbook)](http://playbook.samaltman.com/#ceo){:target="_blank"}
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html){:target="_blank"}
 * [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/){:target="_blank"}
