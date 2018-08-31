@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## Articles :
+
 * [Mark Zuckerberg on How to Build the Future](https://blog.ycombinator.com/mark-zuckerberg-future-interview/)
 * [Sam Altman on How to Build the Future](https://blog.ycombinator.com/sam-altman-on-how-to-build-the-future/)
 * [How to Invent the Future II - Alan Kay](https://www.startupschool.org/videos/12)
@@ -47,6 +48,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  * [The Hotjar story (part 1) – from idea to 60,000 beta signups in 6 months](https://www.hotjar.com/blog/2016/01/12/the-hotjar-story-part-1-from-idea-to-60000-beta-signups-in-6-months/) 
  * [The Hotjar story (part 2) – from beta to €1 million ARR in 6 months](https://www.hotjar.com/blog/the-hotjar-story-part-2-from-beta-to-1-million-arr-in-6-months) 
 ) 
+
+
  ## Resources:
 
  * [Pricing Methods for startups](https://taprun.com/methods/) 
@@ -65,6 +68,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  * [Startup launch list](https://startuplaunchlist.com/) 
  * [User Onboarding](https://www.dropbox.com/sh/jhy0i4g5xcseuft/AACgsCbH3YpL8hX3YTRRLgC6a?dl=0) 
 
+
  ## Tools:
  
  * [Press Release Creation and Distribution Tools](https://www.sideprojectchecklist.com/2017/press-release-tools/) 
@@ -75,10 +79,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  * [Free stock photo](https://www.pexels.com/)
 
 
-
-
-
-
-### Support or Contact
+### Want more ?
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
