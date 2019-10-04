@@ -87,4 +87,4 @@ Enjoy and pay it forward!
 
 We are Bunnyshell. Striving to build the only platform with a holistic approach on the entire devops pipeline. 
 
-If you would like to help us build the most awesome tool, join [our beta program](https://beta.bunnyshell.com/) and give us your honest feedback. Thanky thanks with a bunny on top.
+If you would like to help us build the most awesome tool, start FREE [with bunnyshell](https://cloud.bunnyshell.com/register/) and give us your honest feedback. Thanky thanks with a bunny on top.
